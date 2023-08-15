@@ -1099,7 +1099,7 @@ iframe, video, img {
         max-height: 15rem !important;
         transition: all 0.2s ease-in-out !important;
         border-radius: 0.5rem !important;
-        margin-bottom: 1.25rem !important;
+        margin-bottom: 1rem !important;
         border-bottom: none !important; }
         @media (max-width: 767.98px) {
           .super-content .notion-collection-gallery.medium .notion-collection-card .notion-collection-card__cover.medium, .super-content .notion-collection-gallery.medium .notion-collection-card .notion-collection-card__cover.medium > div {
